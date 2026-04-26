@@ -8,7 +8,7 @@ A full-stack web application designed to streamline university club registration
 ## Features
 
 1. **User Authentication**
-- Student and admin login, secure session handling
+    - Student and admin login, secure session handling
 3. **Club Registration**: Students can apply to join clubs and track application status
 4. **Club Management**: Admins can approve/reject applications and manage club memberships
 5. **Data Persistence**: MySQL database integration, structured schema for students, admins, applications, and clubs
