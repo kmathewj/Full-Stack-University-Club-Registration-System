@@ -1,0 +1,5 @@
+/home/student/NetBeansProjects/Lab4/ClubManagementService/src/main/java/ryerson/ca/club/business/ClubBusiness.java
+/home/student/NetBeansProjects/Lab4/ClubManagementService/src/main/java/ryerson/ca/club/persistence/ClubDBConnection.java
+/home/student/NetBeansProjects/Lab4/ClubManagementService/src/main/java/ryerson/ca/club/endpoint/ClubResource.java
+/home/student/NetBeansProjects/Lab4/ClubManagementService/src/main/java/ryerson/ca/club/persistence/Club_CRUD.java
+/home/student/NetBeansProjects/Lab4/ClubManagementService/src/main/java/ryerson/ca/club/endpoint/ApplicationConfig.java

@@ -1,0 +1,5 @@
+ryerson/ca/club/endpoint/ApplicationConfig.class
+ryerson/ca/club/endpoint/ClubResource.class
+ryerson/ca/club/business/ClubBusiness.class
+ryerson/ca/club/persistence/ClubDBConnection.class
+ryerson/ca/club/persistence/Club_CRUD.class
