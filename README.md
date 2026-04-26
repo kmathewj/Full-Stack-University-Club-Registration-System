@@ -40,4 +40,4 @@ This project was designed using the Microservices Architecture:
 - **Cloud**: Google Cloud Platform
 
 ## Demo
-Watch the project demo here: https://youtu.be/ArXOpDRlLnw
+[![Watch the project demo here:](https://img.youtube.com/vi/ArXOpDRlLnw/0.jpg)](https://www.youtube.com/watch?v=ArXOpDRlLnw)
