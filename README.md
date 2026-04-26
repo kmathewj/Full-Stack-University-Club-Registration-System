@@ -26,6 +26,13 @@ A full-stack web application designed to streamline university club registration
 
 ## Architecture
 This project was designed using the Microservices Architecture:
-- Frontend Service (UI + authentication + orchestration)
-- Club Registration Service (handles applications)
-- Club Management Service (handles approvals & memberships)
+- **Frontend Service**: UI + authentication + orchestration
+- **Club Registration Service**: handles applications
+- **Club Management Service**: handles approvals & memberships
+
+## Tech Stack
+- **Backend**: Java Servlets
+- **Frontend**: HTML, CSS
+- **Server**: Apache Tomcat
+- **Database**: MySQL
+- **Cloud**: Google Cloud Platform
