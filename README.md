@@ -30,9 +30,14 @@ This project was designed using the Microservices Architecture:
 - **Club Registration Service**: handles applications
 - **Club Management Service**: handles approvals & memberships
 
+---
+
 ## Tech Stack
 - **Backend**: Java Servlets
 - **Frontend**: HTML, CSS
 - **Server**: Apache Tomcat
 - **Database**: MySQL
 - **Cloud**: Google Cloud Platform
+
+## Demo
+Watch the project demo here: https://youtu.be/ArXOpDRlLnw
