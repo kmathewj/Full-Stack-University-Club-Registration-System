@@ -1,0 +1,7 @@
+ryerson/ca/registration/endpoint/ApplicationConfig.class
+ryerson/ca/registration/persistence/DBConnection.class
+ryerson/ca/registration/helper/ApplicationInfo.class
+ryerson/ca/registration/persistence/Application_CRUD.class
+ryerson/ca/registration/business/RegistrationBusiness.class
+ryerson/ca/registration/endpoint/RegistrationResource.class
+ryerson/ca/registration/endpoint/AuthFilter.class

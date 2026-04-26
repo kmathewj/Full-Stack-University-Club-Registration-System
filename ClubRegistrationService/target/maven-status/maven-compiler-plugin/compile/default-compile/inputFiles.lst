@@ -1,0 +1,7 @@
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/business/RegistrationBusiness.java
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/persistence/DBConnection.java
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/helper/ApplicationInfo.java
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/endpoint/ApplicationConfig.java
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/endpoint/RegistrationResource.java
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/endpoint/AuthFilter.java
+/home/student/NetBeansProjects/Lab4/ClubRegistrationService/src/main/java/ryerson/ca/registration/persistence/Application_CRUD.java
