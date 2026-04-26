@@ -6,7 +6,6 @@ A full-stack web application designed to streamline university club registration
 ---
 
 ## Features
-
 1. **User Authentication**
     - Student and admin login
     - secure session handling
