@@ -21,3 +21,11 @@ A full-stack web application designed to streamline university club registration
 5. **Cloud Deployment**
     - Hosted on Google Cloud
     - Designed for scalability and distributed architecture
+
+---
+
+## Architecture
+This project was designed using the Microservices Architecture:
+- Frontend Service (UI + authentication + orchestration)
+- Club Registration Service (handles applications)
+- Club Management Service (handles approvals & memberships)
